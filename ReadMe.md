@@ -1,0 +1,1 @@
+In order to run the code, you need to download coco.names, yolov3.cfg and yolov3.weights and put all in the same folder........:)
